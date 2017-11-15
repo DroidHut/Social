@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314626193837",
+    "project_id": "social-186110"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314626193837:android:2df4f9722abdaf94",
+        "android_client_info": {
+          "package_name": "com.example.shivani.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314626193837-cldqnq2kqmuj7ptet3ag5ismgvu25bh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivani.social",
+            "certificate_hash": "f65eeed7956412b2b926b08f4c5e463c8e4b3fed"
+          }
+        },
+        {
+          "client_id": "314626193837-58oe9f9fjnh11tn3sqdt0qodtv10ns44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KOOQORpRR9Ka61ra0Lrsqz_ytq7fJ_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
